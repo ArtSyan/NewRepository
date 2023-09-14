@@ -2,3 +2,4 @@
 изменение для Push
 ![Alt text](image.png)
 изменение для Pull
+![Alt text](image-1.png)
